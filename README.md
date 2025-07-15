@@ -1,6 +1,4 @@
-Absolutely, Vikas! Here's a clear explanation of how a **Spring + React application** works, including the **architecture**, **responsibilities**, and how both parts connect.
 
----
 
 ## 🔧 **Spring + React Full-Stack Application (Core Overview)**
 
